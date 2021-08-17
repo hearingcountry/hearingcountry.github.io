@@ -1,6 +1,9 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: #e5e5e5;
+  background-image: url(img/Blur.svg);
+  background-repeat: no-repeat;
+  background-position: top center;
 }
 
 /* Awal Menu Navigasi */
@@ -19,22 +22,33 @@ body {
 
 /* Awal Hero */
 .hero {
-  margin-top: 6rem;
+  margin-top: 3rem;
 }
 .teks-utama p {
   line-height: 48px;
   font-size: 24px;
   font-weight: 400;
   color: #555;
-  padding: 10px;
 }
 
 .teks-utama h1 {
   font-weight: bold;
   color: #555;
-  margin-bottom: 5px;
   font-size: 48px;
+}
+
+.cta {
+  background: linear-gradient(30deg, rgba(187, 163, 255), rgba(96, 255, 217, 0.4));
+  border-radius: 10px;
+  color: #fff;
+  width: 120px;
   padding: 10px;
+  border: none;
+}
+
+.cta:hover {
+  background-color: rgb(145, 87, 252);
+  cursor: pointer;
 }
 
 /* Akhir Hero */
