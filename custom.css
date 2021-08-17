@@ -3,13 +3,24 @@ body {
   background-color: #e5e5e5;
 }
 
+/* Awal Menu Navigasi */
+.navbar {
+  margin-top: 16px;
+}
+
 .nav-link {
-  margin: 24px;
+  margin-left: 40px;
   color: #555;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
 }
 
+/* Akhir Menu Navigasi */
+
+/* Awal Hero */
+.hero {
+  margin-top: 6rem;
+}
 .teks-utama p {
   line-height: 48px;
   font-size: 24px;
@@ -26,10 +37,4 @@ body {
   padding: 10px;
 }
 
-.hero {
-  margin-top: 6rem;
-}
-
-.photo {
-  margin-bottom: 3rem;
-}
+/* Akhir Hero */
