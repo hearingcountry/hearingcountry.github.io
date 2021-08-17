@@ -3,6 +3,7 @@ body {
   background-color: #e5e5e5;
   background-image: url(img/Blur.svg);
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 /* Awal Menu Navigasi */
