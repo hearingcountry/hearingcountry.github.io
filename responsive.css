@@ -1,0 +1,40 @@
+@media screen and (max-width: 768px) {
+  /* Menu Navigasi */
+  .navbar {
+    margin: 15px 30px;
+  }
+  /* Akhir Navigasi */
+
+  /* Hero Section */
+  .hero {
+    margin: 0 30px;
+  }
+
+  .hero .teks-utama {
+    margin: auto;
+  }
+
+  .photo {
+    margin-bottom: 50px;
+  }
+  /* Akhir Hero */
+}
+
+@media screen and (max-width: 576px) {
+  /* Menu Navigasi */
+  .navbar {
+    margin: 15px 30px;
+  }
+
+  /* Akhir Menu Navigasi */
+
+  /* Awal Hero */
+  .hero {
+    margin: 0 30px;
+  }
+
+  .photo {
+    margin-bottom: 50px;
+  }
+  /* Akhir Hero */
+}
