@@ -37,7 +37,7 @@ body {
   font-size: 48px;
 }
 
-.cta {
+/* .cta {
   background: linear-gradient(30deg, rgba(187, 163, 255), rgba(96, 255, 217, 0.4));
   border-radius: 10px;
   color: #fff;
@@ -49,6 +49,6 @@ body {
 .cta:hover {
   background-color: rgb(159, 112, 247);
   cursor: pointer;
-}
+} */
 
 /* Akhir Hero */
