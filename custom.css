@@ -1,0 +1,35 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #e5e5e5;
+}
+
+.nav-link {
+  margin: 24px;
+  color: #555;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.teks-utama p {
+  line-height: 48px;
+  font-size: 24px;
+  font-weight: 400;
+  color: #555;
+  padding: 10px;
+}
+
+.teks-utama h1 {
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 5px;
+  font-size: 48px;
+  padding: 10px;
+}
+
+.hero {
+  margin-top: 6rem;
+}
+
+.photo {
+  margin-bottom: 3rem;
+}
