@@ -3,9 +3,9 @@
   body {
     font-family: "Poppins", sans-serif;
     background-color: #e5e5e5;
-    background-image: none;
-    /* background-repeat: no-repeat;
-    background-position: center; */
+    background-image: url(img/Blur.png);
+    background-repeat: no-repeat;
+    background-position: left;
   }
   /* Akhir Body */
   /* Menu Navigasi */
@@ -34,9 +34,9 @@
   body {
     font-family: "Poppins", sans-serif;
     background-color: #e5e5e5;
-    background-image: none;
-    /* background-repeat: no-repeat;
-    background-position: center; */
+    background-image: url(img/Blur.png);
+    background-repeat: no-repeat;
+    background-position: left;
   }
   /* Akhir Body */
   /* Menu Navigasi */
