@@ -1,4 +1,13 @@
 @media screen and (max-width: 768px) {
+  /* Body */
+  body {
+    font-family: "Poppins", sans-serif;
+    background-color: #e5e5e5;
+    background-image: none;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+  }
+  /* Akhir Body */
   /* Menu Navigasi */
   .navbar {
     margin: 15px 30px;
@@ -21,6 +30,15 @@
 }
 
 @media screen and (max-width: 576px) {
+  /* Body */
+  body {
+    font-family: "Poppins", sans-serif;
+    background-color: #e5e5e5;
+    background-image: none;
+    /* background-repeat: no-repeat;
+    background-position: center; */
+  }
+  /* Akhir Body */
   /* Menu Navigasi */
   .navbar {
     margin: 15px 30px;
